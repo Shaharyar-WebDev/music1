@@ -241,3 +241,7 @@ img.fi-logo {
     width: 100% !important;
     @apply !rounded-md;
 }
+
+.fi-modal-close-overlay{
+    @apply backdrop-blur-sm;
+}
